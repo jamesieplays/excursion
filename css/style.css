@@ -1,0 +1,49 @@
+* {
+    box-sizing: border-box;
+  }
+
+  body {
+    background-color: black;
+    color: white;
+    font-family: Verdana;
+    text-align: center;
+    font-size: 16px;
+  }
+
+  .main-header {
+    font-weight: normal;
+    font-size: 3.125rem;
+  }
+
+  p {
+    font-size: 1.312rem;
+    color: gray;
+  }
+
+  a {
+    color: aquamarine;
+    font-size: 1rem;
+  }
+
+  h1 {
+    font-weight: 300;
+    font-size: 2.625rem;
+  }
+
+  .camp-img {
+    max-width: 100%;
+  }
+
+  section {
+    margin-bottom: 2rem;;
+  }
+
+  .phone-img {
+    max-width: 100%;
+  }
+
+  .copyright {
+    text-align: right;
+    color: gray;
+    font-size: 1rem;
+  }
